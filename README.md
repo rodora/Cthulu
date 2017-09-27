@@ -21,6 +21,6 @@ Howto
 4.Put following files to specific folders (**CASE SENSITIVE**):
 * `KeychainServices.xml` => `/sdcard/.acq-roadtodragons/`
 * **Encrypted** `AssetBundle` => `/sdcard/Android/data/jp.co.acquire.RTD/files/`
-* (**Requires ROOT**)`CARewardPluginActivity.xml` => `/data/data/jp.co.acquire.RTD/shared_prefs/` (Optional, only for full unit)
+* `CARewardPluginActivity.xml` => `/data/data/jp.co.acquire.RTD/shared_prefs/` (Optional, only for full unit)(**Requires ROOT**)
 
 5.Install & Open RoDora. Eaten by Cthulu.
