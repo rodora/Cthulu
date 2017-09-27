@@ -9,12 +9,14 @@ Howto
 * `KeychainServices.xml` (use your own file if exists)
 * `CARewardPluginActivity.xml`
 * RoDora apk
-* Decrypted `AssetBundle`
+* Decrypted AssetBundle(`AssetBundle_Decode`)
 
-2.Edit `CARewardPluginActivity.xml`, replace `RoDora` to your username(optional)
+1.1.Edit `CARewardPluginActivity.xml`, replace `RoDora` to your username(optional)
 ```html
     <string name="USERNAME">RoDora</string>
 ```
+
+2.Use RTDDE.AssetBundleDecoder to encrypt your own encrypted `AssetBundle` from `AssetBundle_Decode`
   
 3.Encrypt `AssetBundle` with `KeychainServices.xml` using `MISSING_TOOL_NAME`
 
