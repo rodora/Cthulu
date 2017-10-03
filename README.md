@@ -3,12 +3,17 @@ A guide for installing RoDora app with full unit unlocked. (**Android ONLY**)
 
 (**Full unit requires ROOT**)
 
-Howto
+Notice
+---
+* If you already played RoDora, skip 1,2,5 in Instructions.
+* If you already played RoDora and want full unit, skip instructions with `KeychainServices.xml`.
+
+Instructions
 ----
 1.Prepare following files:
 * `KeychainServices.xml` (use your own file if exists)
-* `CARewardPluginActivity.xml`
-* RoDora apk
+* `CARewardPluginActivity.xml` (use your own file if exists)
+* RoDora apk (also can download from Play Store)
 * Decrypted AssetBundle(`AssetBundle_Decode`)
 
 2.(Optional)Edit `CARewardPluginActivity.xml`, replace `RoDora` to your username
